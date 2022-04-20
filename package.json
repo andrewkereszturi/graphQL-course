@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "apollo-server-core": "^3.6.7",
+    "apollo-server-express": "^3.6.7",
+    "express": "^4.17.3",
+    "graphql": "^16.3.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
